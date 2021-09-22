@@ -1,4 +1,5 @@
 # DeskShare
+Cross-platfrom pc based file-sharing system
 
 Greetings fellow programmer,
 
